@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\LabRPM\bin\Debug\LabRPM.exe.config
+C:\Users\User\source\repos\LabRPM\bin\Debug\LabRPM.exe
+C:\Users\User\source\repos\LabRPM\bin\Debug\LabRPM.pdb
+C:\Users\User\source\repos\LabRPM\obj\Debug\LabRPM.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LabRPM\obj\Debug\LabRPM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LabRPM\obj\Debug\LabRPM.exe
+C:\Users\User\source\repos\LabRPM\obj\Debug\LabRPM.pdb
